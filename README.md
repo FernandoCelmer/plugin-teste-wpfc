@@ -1,7 +1,6 @@
 # plugin-teste-wpfc
 
-BRL- Plugin básico Wordpress com uma página de administração para o desenvolvimento de projetos e novas funcionalidades...</p>
-USA - Basic Wordpress plugin with an administration page for the development of projects and new functionalities ...
+Plugin básico Wordpress com uma página de administração para o desenvolvimento de projetos e novas funcionalidades...
 
 <p><b>Pastas e Arquivos</b></p>
 <ul>
