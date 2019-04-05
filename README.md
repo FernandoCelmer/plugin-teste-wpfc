@@ -11,8 +11,6 @@ ________________________________
 	<li>plugin-teste-wpfc // Arquivos de edição e Instalação do Plugin.</li>
 	<li>includes // Arquivos com funções e a página de administração.</li>
 </ul>
-________________________________
-
 <p>
 <img src="https://github.com/FernandoCelmer/plugin-teste-wpfc/blob/master/img/img-plugin-teste-wpfc-01.jpg?raw=true" alt="img-plugin-teste-wpfc-01.jpg">
 <img src="https://github.com/FernandoCelmer/plugin-teste-wpfc/blob/master/img/img-plugin-teste-wpfc-02.jpg?raw=true" alt="img-plugin-teste-wpfc-02.jpg">
