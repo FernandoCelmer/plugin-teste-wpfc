@@ -5,11 +5,11 @@ Plugin básico Wordpress com uma página de administração para o desenvolvimen
 Site: www.fernandocelmer.com
 </br>
 E-mail: email@fernandocelmer.com
-________________________________
+
 <ul>
-	<li>img // Imagens de Demonstração</li>
+	<li>img // Imagens de Demonstração.</li>
 	<li>plugin-teste-wpfc // Arquivos de edição e Instalação do Plugin.</li>
-	<li>includes // Arquivos com funções e página de administração.</li>
+	<li>includes // Arquivos com funções e a página de administração.</li>
 </ul>
 ________________________________
 <p>
