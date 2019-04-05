@@ -1,6 +1,6 @@
 # plugin-teste-wpfc
 
-Modelo de Plugin Wordpress básico para o desenvolvimento de projetos e construção de novas funcionalidades Wordpress.
+Modelo de Plugin Wordpress básico com uma página de administração para o desenvolvimento de projetos...
 
 Site: www.fernandocelmer.com
 </br>
