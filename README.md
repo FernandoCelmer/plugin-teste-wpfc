@@ -1,8 +1,8 @@
 # plugin-teste-wpfc
 
-Plugin básico Wordpress com uma página de administração para o desenvolvimento de projetos e novas funcionalidades...
+Basic Wordpress plugin with an administration page for the development of projects and new functionalities ...
 
-<p><b>Pastas e Arquivos</b></p>
+<p><b>Folders and Files</b></p>
 <ul>
 	<li>img // Imagens de Demonstração.</li>
 	<li>plugin-teste-wpfc // Arquivos de edição e Instalação do Plugin.</li>
