@@ -5,7 +5,8 @@ Basic Wordpress plugin with an administration page for the development of projec
 <p><b>Folders and Files</b></p>
 <ul>
 	<li>img // Demonstration Images.</li>
-	<li>plugin-teste-wpfc // Edit Files and Plugin Installation.</li>
+	<li>plugin-teste-wpfc // Edit Files.</li>
+	<li>plugin-teste-wpfc.zip // Plugin Installation.</li>
 	<li>includes // Function files and administration page.</li>
 </ul>
 
