@@ -1,4 +1,4 @@
-# plugin-teste-wpfc
+# [plugin-teste-wpfc]
 
 Basic Wordpress plugin with an administration page for the development of projects and new functionalities ...
 
