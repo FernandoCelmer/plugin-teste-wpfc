@@ -4,14 +4,14 @@
 
 #### Abstract: Basic Wordpress plugin with an administration page for the development of projects and new functionalities.
 
-### Folders and Files
+## Folders and Files
 
 - img // `Demonstration Images.`
 - plugin-teste-wpfc // `Edit Files.`
 - plugin-teste-wpfc.zip // `Plugin Installation.`
 - includes // `Function files and administration page.`
 
-### SCREEN - ON 
+## SCREEN - ON 
 ________________________________
 <p>
 <img src="https://github.com/FernandoCelmer/plugin-teste-wpfc/blob/master/img/img-plugin-teste-wpfc-01.jpg?raw=true" alt="img-plugin-teste-wpfc-01.jpg">
