@@ -11,10 +11,6 @@
 - plugin-teste-wpfc.zip // `Plugin Installation.`
 - includes // `Function files and administration page.`
 
-### Contact
-- Site: www.fernandocelmer.com
-- E-mail: email@fernandocelmer.com
-
 # SCREEN - ON 
 ________________________________
 <p>
